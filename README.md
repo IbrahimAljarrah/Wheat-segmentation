@@ -29,6 +29,11 @@ we have manually annotated around 400 images using cvat
 
 
 
+https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/bbc810a7-de5b-4702-8ae4-2998e3d3f4ae
+
+
+
+
 # Using Roboflow Annotate
 Annotate around 400 images manually using CVAT
     1- Upload the annotated images on robflow 
