@@ -92,9 +92,9 @@ Video
   # Model Training:
     Trained for 25 epochs with a batch size of 4.
     
-      ![image](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/cefb87db-a125-47ee-966a-c6cb2d04b9f4)
+![image](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/cefb87db-a125-47ee-966a-c6cb2d04b9f4)
 
-      ![image](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/32d31577-26eb-4169-a487-88a868909551)
+![image](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/32d31577-26eb-4169-a487-88a868909551)
     
   # using all datasets 2609
   
