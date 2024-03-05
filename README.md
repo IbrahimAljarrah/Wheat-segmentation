@@ -18,7 +18,6 @@ While image segmentation holds promise for revolutionizing wheat agriculture, se
 
 Addressing these challenges requires interdisciplinary collaboration among researchers, agronomists, data scientists, and industry stakeholders.
 
-# DataSet
 # Dataset Description
 More details on the data acquisition and processes are available at https://arxiv.org/abs/2005.02162
 
