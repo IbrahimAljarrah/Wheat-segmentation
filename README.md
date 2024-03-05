@@ -27,6 +27,8 @@ More details on the data acquisition and processes are available at https://arxi
 # Data Annotation
 we have manually annotated around 400 images using cvat
 
+
+
 # Using Roboflow Annotate
 Annotate around 400 images manually using CVAT
     1- Upload the annotated images on robflow 
@@ -38,7 +40,11 @@ Annotate around 400 images manually using CVAT
 
 
 # Data Annotation using Model in CVAT.Ai
-Video
+
+
+
+https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/0697c917-b4bd-4f71-8097-2f8fe2277653
+
 
 # Export Data
 
