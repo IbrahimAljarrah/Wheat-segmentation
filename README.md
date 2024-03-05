@@ -41,7 +41,7 @@ Annotate around 400 images manually using CVAT
     3- Train a yolo model on the annotated images using robflow.
     4- Connect the trained model to CVAT and use it to automate annotation for the rest of the images
 
-![WhatsApp Image 2024-03-03 at 22 17 51_6ed1cc16](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/532fc5b7-c602-4cc6-bc54-62ef59fb8bea)
+![Annotate](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/532fc5b7-c602-4cc6-bc54-62ef59fb8bea)
 
 
 # Data Annotation using Model in CVAT.Ai
@@ -55,7 +55,7 @@ https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/0697c917-b
 
    # json file
       
-![WhatsApp Image 2024-03-04 at 15 02 54_2261f9f7](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/587129b2-0f82-426c-aa6f-d289240d1f87)
+![Annotate](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/587129b2-0f82-426c-aa6f-d289240d1f87)
     
    # Segmentation Mask
 ![WhatsApp Image 2024-03-03 at 15 46 39_aefb25d4](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/8c6882dc-3982-475d-912c-0959a489fc03)
