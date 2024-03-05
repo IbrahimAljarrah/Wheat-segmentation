@@ -42,12 +42,12 @@ Video
 
 # Export Data
 
-  # json file
-  
-  ![WhatsApp Image 2024-03-04 at 15 02 54_2261f9f7](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/587129b2-0f82-426c-aa6f-d289240d1f87)
-
-  # Segmentation Mask
-  ![WhatsApp Image 2024-03-03 at 15 46 39_aefb25d4](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/8c6882dc-3982-475d-912c-0959a489fc03)
+      # json file
+      
+      ![WhatsApp Image 2024-03-04 at 15 02 54_2261f9f7](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/587129b2-0f82-426c-aa6f-d289240d1f87)
+    
+      # Segmentation Mask
+      ![WhatsApp Image 2024-03-03 at 15 46 39_aefb25d4](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/8c6882dc-3982-475d-912c-0959a489fc03)
 
 
 # Split data training and Validation
