@@ -149,6 +149,11 @@ https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/0697c917-b
 1. Expanding the dataset size is imperative for future endeavours.
 2. Enriching the dataset with additional images, particularly those featuring multiple plants, can enhance object diversity and model robustness.
 
+
+
+
+
+
 ![WhatsApp Image 2024-03-04 at 00 20 05_4276f4cd](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/6c93cef4-f7cf-4452-a0da-9a84e3eb2a8e)
 
 
