@@ -1,4 +1,4 @@
-    # Wheat-segmentation
+# Wheat-segmentation
 # INTRODUCTION
 
 Image segmentation is a pivotal task in computer vision, particularly in the agricultural domain where precise analysis of crop health and yield estimation is paramount. In recent years, advancements in deep learning techniques have revolutionized the field of image segmentation, enabling researchers to achieve unprecedented levels of accuracy and efficiency.
