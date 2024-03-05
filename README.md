@@ -119,6 +119,7 @@ Video
     Loss: DiceFocalLoss
     epochs 10
 ![image](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/0eea00b4-1068-4caa-80d5-3068c2015633)
+
 ![image](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/82398add-d3cb-40b7-8eb7-650a27ed2e9e)
 # Summery
 
@@ -137,7 +138,7 @@ Video
 1. Expanding the dataset size is imperative for future endeavours.
 2. Enriching the dataset with additional images, particularly those featuring multiple plants, can enhance object diversity and model robustness.
 
-                   ![WhatsApp Image 2024-03-04 at 00 20 05_4276f4cd](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/6c93cef4-f7cf-4452-a0da-9a84e3eb2a8e)
+![WhatsApp Image 2024-03-04 at 00 20 05_4276f4cd](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/6c93cef4-f7cf-4452-a0da-9a84e3eb2a8e)
 
 
 
