@@ -118,8 +118,8 @@ Video
     optimizer: Adam
     Loss: DiceFocalLoss
     epochs 10
-    ![image](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/0eea00b4-1068-4caa-80d5-3068c2015633)
-    ![image](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/82398add-d3cb-40b7-8eb7-650a27ed2e9e)
+![image](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/0eea00b4-1068-4caa-80d5-3068c2015633)
+![image](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/82398add-d3cb-40b7-8eb7-650a27ed2e9e)
 # Summery
 
 ![image](https://github.com/IbrahimAljarrah/Wheat-segmentation/assets/49195935/a4798cca-20ea-4f22-b628-4c0ce935e4a8)
